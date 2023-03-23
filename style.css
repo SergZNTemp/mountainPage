@@ -1,0 +1,159 @@
+body {
+  position: relative;
+  margin: 0px;
+  padding: 0px;
+  max-width: 3556px;
+  min-height: 2000px;
+}
+body #mountain {
+  position: absolute;
+  top: 211px;
+  right: 191px;
+  bottom: 147px;
+  left: 1302px;
+}
+body header {
+  background-color: #fff4ee;
+  padding: 0px;
+}
+body header #logo {
+  width: 323px;
+  height: 217px;
+  position: relative;
+  top: 89px;
+  left: 118px;
+  border: 5px solid black;
+}
+body header ul {
+  padding: 0px;
+  margin: 0px;
+  float: right;
+  position: absolute;
+  top: 115px;
+  right: 91px;
+}
+body header ul li {
+  padding-bottom: 0px;
+  float: left;
+  width: -moz-min-content;
+  width: min-content;
+  height: 26px;
+  margin-right: 50px;
+  list-style-type: none;
+  display: flex;
+  justify-content: center;
+}
+body header ul li a {
+  margin: 0px;
+  padding: 0px;
+  text-decoration: none;
+  font-size: 37px;
+  font-family: Monserat-Bold;
+}
+body header ul .menu {
+  width: -moz-min-content;
+  width: min-content;
+}
+body main {
+  background-color: #fff4ee;
+  min-height: 1500px;
+}
+body main p {
+  padding: 0px;
+}
+body main #new {
+  line-height: 0.8;
+  max-height: 349px;
+  position: absolute;
+  top: 433px;
+  left: 117px;
+}
+body main p#for {
+  margin-top: 67px;
+  padding: 0px;
+  max-height: 45px;
+  position: absolute;
+  top: 848px;
+  left: 108px;
+}
+body main #subs {
+  margin-top: 325px;
+  padding: 0px;
+  max-height: 128px;
+  position: absolute;
+  top: 1219px;
+  left: 120px;
+}
+body main .form {
+  border: 3px green dashed;
+  margin-top: 0px;
+  padding: 0px;
+  width: 1310px;
+  height: 127px;
+  position: absolute;
+  top: 1682px;
+  left: 111px;
+  display: grid;
+}
+body main .form #email {
+  width: 75%;
+  height: 127px;
+  font-size: 16px;
+  font-family: Tahoma;
+  margin-right: auto;
+  margin-left: 0px;
+  border: none;
+  border-radius: 30px;
+  display: inline;
+  float: left;
+}
+body main .form #submit {
+  width: 25%;
+  height: 127px;
+  background-color: grey;
+  color: white;
+  text-align: center;
+  border: none;
+  border-radius: 30px;
+  margin-right: 0px;
+  margin-left: 30px;
+  display: inline;
+  float: right;
+}
+body main aside {
+  max-width: -moz-max-content;
+  max-width: max-content;
+  max-height: -moz-max-content;
+  max-height: max-content;
+  position: absolute;
+  bottom: 291px;
+  left: 3366px;
+}
+body main aside ul {
+  margin: 0px;
+  padding: 0px;
+}
+body main aside ul .social {
+  margin: 0px;
+  padding: 0px;
+  list-style-type: none;
+}
+body footer {
+  margin: 0px;
+  padding-right: 91px;
+  padding-bottom: 81px;
+  padding-left: auto;
+  padding-top: auto;
+  background-color: #fff4ee;
+  background-size: cover;
+}
+body footer div {
+  display: flex;
+}
+body footer div #foot {
+  margin-top: auto;
+  margin-left: auto;
+  margin-right: 0px;
+  font: 42px Poppins-Medium;
+  line-height: 0.5;
+}/*# sourceMappingURL=style.css.map */
